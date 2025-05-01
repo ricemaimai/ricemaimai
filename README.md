@@ -3,8 +3,6 @@
 <!-- GitHub 基本統計 -->
 ![ricemaimai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricemaimai&show_icons=true&theme=tokyonight)
 
-<!-- GitHub 使用言語 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricemaimai&layout=compact&theme=tokyonight)
 
 ## 🧠 GitHub Summary Cards
 
