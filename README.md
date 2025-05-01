@@ -1,4 +1,9 @@
-﻿# ricemaimai
-## 📡 GitHub 稼働状況
+## 🧠 GitHub Summary Card
 
-[![GitHub Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.githubstatus.com&label=GitHub%20Status)](https://www.githubstatus.com/)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=watahaizian&theme=tokyonight)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watahaizian&theme=tokyonight&utcOffset=9)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watahaizian&theme=tokyonight)
+
+![PRs and Issues](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=watahaizian&theme=tokyonight)
