@@ -17,5 +17,4 @@
 <!-- リポジトリ別言語 -->
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricemaimai&theme=tokyonight)
 
-<!-- PR/Issue/Commitなどの統計 -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricemaimai&theme=tokyonight)
+
