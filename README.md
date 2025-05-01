@@ -4,8 +4,6 @@
 ![ricemaimai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricemaimai&show_icons=true&theme=tokyonight)
 
 
-## 🧠 GitHub Summary Cards
-
 <!-- プロフィール詳細 -->
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricemaimai&theme=tokyonight)
 
